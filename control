@@ -1,0 +1,9 @@
+Package: com.nahtedetihw.widgetradius
+Name: WidgetRadius
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Make old widgets match the new ones!
+Maintainer: Ethan Whited
+Author: Ethan Whited
+Section: Tweaks
+Depends: mobilesubstrate
